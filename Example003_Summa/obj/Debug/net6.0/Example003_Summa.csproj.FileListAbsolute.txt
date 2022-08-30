@@ -1,0 +1,15 @@
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\bin\Debug\net6.0\Example003_Summa.exe
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\bin\Debug\net6.0\Example003_Summa.deps.json
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\bin\Debug\net6.0\Example003_Summa.runtimeconfig.json
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\bin\Debug\net6.0\Example003_Summa.dll
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\bin\Debug\net6.0\Example003_Summa.pdb
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.csproj.AssemblyReference.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.AssemblyInfoInputs.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.AssemblyInfo.cs
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.csproj.CoreCompileInputs.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.dll
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\refint\Example003_Summa.dll
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.pdb
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\Example003_Summa.genruntimeconfig.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example003_Summa\obj\Debug\net6.0\ref\Example003_Summa.dll
