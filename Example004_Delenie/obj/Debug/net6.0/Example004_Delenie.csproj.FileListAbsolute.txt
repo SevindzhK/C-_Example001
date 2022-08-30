@@ -1,0 +1,15 @@
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\bin\Debug\net6.0\Example004_Delenie.exe
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\bin\Debug\net6.0\Example004_Delenie.deps.json
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\bin\Debug\net6.0\Example004_Delenie.runtimeconfig.json
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\bin\Debug\net6.0\Example004_Delenie.dll
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\bin\Debug\net6.0\Example004_Delenie.pdb
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.csproj.AssemblyReference.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.AssemblyInfoInputs.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.AssemblyInfo.cs
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.csproj.CoreCompileInputs.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.dll
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\refint\Example004_Delenie.dll
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.pdb
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\Example004_Delenie.genruntimeconfig.cache
+C:\Users\kozac\OneDrive\Desktop\GB\C#\Examples\Example004_Delenie\obj\Debug\net6.0\ref\Example004_Delenie.dll
