@@ -1,24 +1,18 @@
-﻿int Max (int arg1, int arg2, int arg3)
+﻿int [] array = {11,22,53,84,45,76,77,58,69};
+
+int n = array.Length; 
+int find = 84; 
+
+int index = 0;
+
+while (index < n)
 {
-    int result = arg1;
-    if (arg2 > result) result = arg2;
-    if (arg3 > result) result = arg3;
-    return result;
+    if (array[index] == find) 
+    {
+        Console.WriteLine(index);
+    }
+    // index = index + 1
+    index ++;
 }
 
-int a1 = 15;
-int a2 = 21;
-int a3 = 39;
-int b1 = 12;
-int b2 = 23;
-int b3 = 33;
-int c1 = 13;
-int c2 = 10;
-int c3 = 26;
 
-int max1 = Max (a1, b1, c1);
-int max2 = Max (a2, b2, c2);
-int max3 = Max (a3, b3, c3); 
-int max = Max (max1, max2, max3);
-
-Console.WriteLine(max);
